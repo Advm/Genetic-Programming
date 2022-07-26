@@ -1,4 +1,4 @@
-push307
+# Marathon Runner
 
 This is the template for a PushGP system for Hamilton's CS 307: Genetic Programming class.
 
